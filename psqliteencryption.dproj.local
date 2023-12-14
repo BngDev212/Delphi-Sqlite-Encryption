@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/13 15:08:19.000.407,=D:\PROJECT\DELPHI_104\Unit1.pas</Transaction>
+    <Transaction>2022/01/06 22:36:42.000.387,=D:\PROJECT\DELPHI_104\Unit1.pas</Transaction>
+    <Transaction>2022/01/06 22:39:11.000.210,=D:\PROJECT\DELPHI_104\Unit1.pas</Transaction>
+    <Transaction>2023/01/21 13:26:54.000.189,=D:\PROJECT\DELPHI_104\Unit1.pas</Transaction>
+    <Transaction>2023/05/08 07:37:31.000.204,=D:\PROJECT\DELPHI_104\Unit1.pas</Transaction>
+    <Transaction>2023/05/08 07:38:43.000.754,D:\PROJECT\DELPHI_104\yttutorial\Sqlite-encryption\umain.fmx=D:\PROJECT\DELPHI_104\Unit1.fmx</Transaction>
+    <Transaction>2023/05/08 07:38:43.000.754,D:\PROJECT\DELPHI_104\yttutorial\Sqlite-encryption\umain.pas=D:\PROJECT\DELPHI_104\Unit1.pas</Transaction>
+    <Transaction>2023/05/08 07:38:59.000.998,D:\PROJECT\DELPHI_104\yttutorial\Sqlite-encryption\psqliteencryption.dproj=D:\PROJECT\DELPHI_104\Project1.dproj</Transaction>
+    <Transaction>2023/05/08 07:40:37.000.863,=D:\PROJECT\DELPHI_104\yttutorial\Sqlite-encryption\Unit1.pas</Transaction>
+    <Transaction>2023/05/08 07:40:46.000.224,D:\PROJECT\DELPHI_104\yttutorial\Sqlite-encryption\Unit1.pas=D:\PROJECT\DELPHI_104\yttutorial\Sqlite-encryption\udm.pas</Transaction>
+    <Transaction>2023/05/08 07:40:46.000.224,D:\PROJECT\DELPHI_104\yttutorial\Sqlite-encryption\Unit1.dfm=D:\PROJECT\DELPHI_104\yttutorial\Sqlite-encryption\udm.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64="RR8M90B1V8Y" Android="RR8M90B1V8Y"/>
+	</ActiveMobileDevice>
+</BorlandProject>

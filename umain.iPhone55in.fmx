@@ -1,0 +1,21 @@
+inherited frmMain_iPhone55in: TfrmMain_iPhone55in
+  ClientHeight = 716
+  ClientWidth = 414
+  DesignerMasterStyle = 3
+  inherited ToolBar1: TToolBar
+    Size.Width = 404.000000000000000000
+    inherited Button1: TButton
+      Position.X = 250.000000000000000000
+    end
+  end
+  inherited StringGrid1: TStringGrid
+    Size.Width = 404.000000000000000000
+    Size.Height = 541.000000000000000000
+    Viewport.Width = 404.000000000000000000
+    Viewport.Height = 541.000000000000000000
+  end
+  inherited BindNavigator1: TBindNavigator
+    Position.Y = 609.000000000000000000
+    Size.Width = 404.000000000000000000
+  end
+end

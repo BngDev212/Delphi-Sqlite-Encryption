@@ -1,0 +1,21 @@
+inherited frmMain_LgXhdpiTb: TfrmMain_LgXhdpiTb
+  ClientHeight = 829
+  ClientWidth = 480
+  DesignerMasterStyle = 3
+  inherited ToolBar1: TToolBar
+    Size.Width = 470.000000000000000000
+    inherited Button1: TButton
+      Position.X = 316.000000000000000000
+    end
+  end
+  inherited StringGrid1: TStringGrid
+    Size.Width = 470.000000000000000000
+    Size.Height = 654.000000000000000000
+    Viewport.Width = 470.000000000000000000
+    Viewport.Height = 654.000000000000000000
+  end
+  inherited BindNavigator1: TBindNavigator
+    Position.Y = 722.000000000000000000
+    Size.Width = 470.000000000000000000
+  end
+end
